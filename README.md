@@ -67,7 +67,7 @@ Your server admin can customize:
    - This creates all necessary tables for tracking hardcore characters
 
 2. **Install Lua Scripts**
-   - Place `hard_core_mode.lua` and `hardcore_config.lua` in your server's Lua scripts folder inside a folder named hardcore_mode for easier storing and locating. 
+   - Place `hardcore_core.lua` and `hardcore_config.lua` in your server's Lua scripts folder inside a folder named hardcore_mode for easier storing and locating. 
    - The scripts will auto-load when the server starts
 
 3. **Configure Settings**
@@ -116,7 +116,5 @@ A: Milestone rewards are given directly to your character instead of via mail. G
 
 For issues or questions about this script, server administrators can:
 - Open an issue on GitHub: [hardcore_mode](https://github.com/PrivateDonut/hardcore_mode/issues)
-- Check the `hardcore_mode` folder in the repository for updates
-
 
 Enjoy your hardcore adventure and may fortune favor the brave!
